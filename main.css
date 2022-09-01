@@ -27,7 +27,7 @@ nav,output,ruby,section,summary,time,mark,audio,video {
 body {
     background-color: #e8dfce;
 }
-img, audio {
+img, #audio {
     display: block; 
     margin: 0px auto;
 }
